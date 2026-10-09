@@ -1,0 +1,15 @@
+# sensitive voice and local-only media
+voice/references/
+voice/checkpoints/
+secrets/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+__pycache__/
+.venv/
+outputs/
+media/renders/
+data/private/
+*.pyc
